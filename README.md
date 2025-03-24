@@ -1,34 +1,33 @@
-# library-manage-system-with-c-
 
----
-
-# 📚 Library Management System
+# 📚 Library Management System (C++)
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![C++](https://img.shields.io/badge/language-C++-blue)
 
-The **Library Management System** is a robust console-based application designed to manage all aspects of a library. From adding books and managing users to tracking rentals and generating reports, this system provides a comprehensive solution for libraries of all sizes.
+The **Library Management System** is a feature-rich console-based application designed to manage all aspects of a library. Built entirely in C++, this system provides tools for managing books, users, borrowing/returning processes, and advanced analytics. Whether you're running a small personal library or a larger institution, this system has you covered.
+
+**Repository Link**: [https://github.com/mach2furkan/library-manage-system-with-c-](https://github.com/mach2furkan/library-manage-system-with-c-)
 
 ---
 
 ## 🌟 Features
 
 ### Core Features
-- **Book Management**: Add, remove, edit, and display books.
-- **User Management**: Add, update, and display user details.
+- **Book Management**: Add, remove, edit, and display books with details like title, author, ISBN, and category.
+- **User Management**: Add, update, and display user profiles, including borrowed books and activity logs.
 - **Borrowing & Returning**: Borrow, return, reserve, and cancel reservations for books.
-- **Search & Filtering**: Search books by title, author, ISBN, or partial matches.
-- **Recommendation System**: Recommend books based on borrowing history.
-- **Fine Calculation**: Calculate fines for late returns.
+- **Search & Filtering**: Search books by title, author, ISBN, partial matches, or advanced filters (e.g., category, availability).
+- **Recommendation System**: Recommend books based on borrowing history and user preferences.
+- **Fine Calculation**: Calculate fines for late returns dynamically.
 
 ### Advanced Features
 - **Book Rental System**: Rent books with associated fees.
 - **Reservation Queue**: Maintain a queue for reserved books.
 - **Wishlist**: Allow users to create and manage wishlists.
 - **Donation System**: Track book donations and donors.
-- **Analytics Dashboard**: Display library statistics and trends.
+- **Analytics Dashboard**: Display library statistics, such as most borrowed categories and overdue trends.
 - **User Activity Heatmap**: Visualize user activity with a heatmap.
 - **Cover Image Upload**: Simulate uploading cover images for books.
-- **Inventory Summary**: Provide a detailed summary of the library's inventory.
+- **Inventory Summary**: Provide a detailed summary of the library's inventory, including total books, categories, and availability percentages.
 
 ### Algorithms & Data Structures
 - **Sorting Algorithms**: Merge Sort, Quick Sort, Heap Sort.
@@ -43,14 +42,13 @@ The **Library Management System** is a robust console-based application designed
 
 ### Prerequisites
 - A C++ compiler (e.g., `g++`, `clang++`).
-- CMake (optional, for building).
 - Git (for cloning the repository).
 
 ### Steps to Run
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/mach2furkan/library-manage-system-with-c-.git
+   cd library-manage-system-with-c-
    ```
 
 2. **Compile the Code**:
@@ -131,22 +129,6 @@ Title: 1984, Author: George Orwell, ISBN: 978-0451524935, Status: Borrowed
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m "Add YourFeatureName"`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
-### Guidelines
-- Follow the existing coding style.
-- Write clear and concise commit messages.
-- Test your changes thoroughly before submitting.
-
----
 
 ## 📜 License
 
@@ -162,15 +144,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 🔗 Contact
-
-For questions, feedback, or collaboration, feel free to reach out:
-
-- **GitHub**: https://github.com/mach2furkan
-
-
----
-
 ## 🌐 Future Enhancements
 
 - **Web Interface**: Develop a GUI or web-based frontend.
@@ -180,4 +153,10 @@ For questions, feedback, or collaboration, feel free to reach out:
 
 ---
 
-This README provides a professional and user-friendly overview of your library management system. It ensures that users can easily understand the project, set it up, and contribute to its development. You can customize it further to match your specific needs or branding.
+## 📧 Contact
+
+For questions, feedback, or collaboration, feel free to reach out:
+
+- **GitHub**: [@mach2furkan](https://github.com/mach2furkan)
+- **Project Repository**: [Library Management System](https://github.com/mach2furkan/library-manage-system-with-c-)
+
