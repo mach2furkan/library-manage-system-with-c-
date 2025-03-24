@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/library manage system by me 25 march /cmake-build-debug/CMakeFiles/library_manage_system_by_me_25_march_.dir
+/Users/furkanaskin/Desktop/C Projeler/library manage system by me 25 march /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/library manage system by me 25 march /cmake-build-debug/CMakeFiles/rebuild_cache.dir
