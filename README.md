@@ -1,5 +1,4 @@
 # library-manage-system-with-c-
-Below is an advanced and professional **GitHub README** file for your library management system. It includes sections like a project description, features, setup instructions, usage examples, and contribution guidelines. This README will help users understand and use your project effectively.
 
 ---
 
